@@ -184,16 +184,5 @@ Really Nice Trick for IDORs
 
 
 
----
-
-## 3. Notion Notes - My XSS Diary =>
-
-
-
-> Link => https://www.notion.so/My-XSS-Diary-87b8f401d5514ef4812fcc41755040ea
->
->
-> I am Learning XSS from brutelogic blogs and I will keep updated my Notion Notes of this.
-
 
 
